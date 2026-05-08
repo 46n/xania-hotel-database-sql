@@ -1,0 +1,3 @@
+Add cleaned documentation in this folder.
+
+Only include sanitized material that does not expose TP numbers, lecturer names, full group member details, private cover pages, or workload matrix information.
