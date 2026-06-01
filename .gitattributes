@@ -1,0 +1,3 @@
+*.sql linguist-language=TSQL linguist-detectable=true
+*.png linguist-documentation=true
+*.pdf linguist-documentation=true
