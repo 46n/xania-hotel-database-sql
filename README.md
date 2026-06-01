@@ -1,5 +1,9 @@
 # Xania Hotel Booking Database — SQL Design Project
 
+![SQL](https://img.shields.io/badge/SQL-Database%20Design-336791)
+![SQL Server](https://img.shields.io/badge/Microsoft-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![ERD](https://img.shields.io/badge/Modeling-ERD%20%2F%20Normalization-6A5ACD)
+
 ## Overview
 
 Xania Hotel Booking Database is a relational database design and SQL project for a hotel booking management system. It was developed as part of an Introduction to Database academic group project, and this repository is a cleaned, portfolio-ready version focused on database design, SQL implementation, and query analysis.
