@@ -17,7 +17,7 @@ This project demonstrates:
 - SQL DML queries
 - query result analysis
 
-## My Contribution
+## Team Contribution
 
 - Contributed to DBMS advantages analysis and case study discussion
 - Contributed to UNF/normalization preparation
@@ -166,7 +166,7 @@ xania-hotel-database-sql/
 - [Database Project Summary](documentation/database-project-summary.md)
 - [Xania Hotel Database Project Summary PDF](documentation/xania-hotel-database-project-summary.pdf)
 
-## What I Learned
+## What We Learned
 
 - relational database design
 - normalization
